@@ -13,7 +13,7 @@ SECRET_KEY = 'django-insecure-mxa-chmd(vm)k594l%acgkhzqc)$2@r%+lt0x&zh2x9$l@#0x=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
